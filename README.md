@@ -14,6 +14,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rafittishanneo&color=7dd3fc&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/rafittishanneo?label=Followers&style=flat-square&color=7dd3fc)
+![Repos](https://img.shields.io/badge/dynamic/json?color=7dd3fc&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frafittishanneo&style=flat-square)
 
 </div>
 
@@ -25,7 +26,7 @@
 const rafit = {
   title: "CS Student",
   stack: {
-    languages: ["C++", "Python", "JavaScript"],
+    languages: ["C++", "Python", "JavaScript", "C#", "MATLAB", "SQL", "Java"],
     web: ["HTML", "CSS", "Node.js", "PHP"],
     databases: ["MySQL"],
     ai_ml: [
@@ -47,6 +48,23 @@ const rafit = {
   openTo: "Full-time opportunities & collaborations"
 };
 ```
+
+<br/>
+
+## 🎯 What I'm About
+
+```
+Backend-first thinking     ████████████████░░░░  80%
+AI & NLP Systems           ███████████████░░░░░  75%
+Full-Stack Web Dev         ██████████████░░░░░░  70%
+Data Science & ML          █████████████░░░░░░░  65%
+Computer Vision            ████████████░░░░░░░░  60%
+```
+
+- 🔭 Currently working on: AI-powered tools and full-stack web systems
+- 🌱 Learning: Advanced NLP, system design, and cloud deployment
+- 🤝 Open to: Backend roles, AI/ML projects, research collaborations, and open-source contributions
+- 🎓 Student at: AIUB (American International University–Bangladesh), CSE
 
 <br/>
 
@@ -94,7 +112,7 @@ An RFID-based smart ticketing system with three roles — Moderator, Admin, and 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,py,js" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,py,js,cs,matlab,java" alt="languages"/>
 
 **Frontend**
 
@@ -152,6 +170,7 @@ An RFID-based smart ticketing system with three roles — Moderator, Admin, and 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7DD3FC?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/md-rafit-4a2203263/)
+[![Email](https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:23-50418-1@student.aiub.edu)
 
 </div>
 
