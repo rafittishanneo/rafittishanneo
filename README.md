@@ -26,7 +26,7 @@
 
 ```typescript
 const rafit = {
-  name: "Rafit Tishan Neo",
+  name: "MD RAFIT",
   role: "Computer Science Student",
   university: "AIUB",
   
