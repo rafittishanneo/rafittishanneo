@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=220&section=header&text=Rafit%20Tishan%20Neo&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20AI%2FML%20%7C%20Software%20Developer&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=220&section=header&text=MDRafit%20Tishan%20Neo&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20AI%2FML%20%7C%20Software%20Developer&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://github.com/rafittishanneo">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=720&lines=Computer+Science+Student+%F0%9F%8E%93;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Building+with+Python%2C+C%2B%2B+%26+C%23;Computer+Vision+%7C+NLP+%7C+IoT;Database+%7C+Backend+%7C+Full-Stack;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG"/>
