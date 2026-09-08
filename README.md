@@ -158,7 +158,7 @@ Oracle SQL database implementation for an Online Train Reservation System with u
 
 <br/>
 
-<a href="https://github.com/rafittishanneo/online-train-reservation-db">
+<a href="https://github.com/rafittishanneo/Online-Train-Reservation-System-Oracle-10g_My-SQL-.git">
 <img src="https://img.shields.io/badge/View%20Repository-7DD3FC?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
 
