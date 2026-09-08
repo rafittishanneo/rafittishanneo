@@ -25,42 +25,18 @@
 ## 👋 About Me
 
 ```typescript
-const rafit = {
-  name: "MD RAFIT",
-  role: "Computer Science Student",
-  university: "AIUB",
-  
-  interests: [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Computer Vision",
-    "Natural Language Processing",
-    "Backend Development",
-    "Database Systems",
-    "IoT"
-  ],
+## 👋 About Me
 
-  languages: [
-    "C++",
-    "Python",
-    "C#",
-    "Java",
-    "JavaScript",
-    "SQL",
-    "MATLAB"
-  ],
+Hi! I'm **MD Rafit**, a Computer Science student at **AIUB (American International University–Bangladesh)** with a strong interest in **Artificial Intelligence, Machine Learning, Software Development, and IoT**.
 
-  currentlyLearning: [
-    "Advanced NLP",
-    "Deep Learning",
-    "System Design",
-    "Cloud Deployment"
-  ],
+I enjoy turning ideas into practical projects and exploring how technology can solve real-world problems. My experience includes working with **Python, C++, C#, Java, JavaScript, SQL, and MATLAB**, along with technologies such as **TensorFlow, OpenCV, MySQL, Oracle SQL, Node.js, PHP, and Arduino**.
 
-  goal: "Build useful AI-powered and software systems",
+I'm particularly interested in **Computer Vision, NLP, Deep Learning, Backend Development, Database Systems, and intelligent IoT solutions**.
 
-  status: "Open to opportunities & collaborations 🚀"
-};
+🚀 **Currently:** Building AI-powered and software-based projects while expanding my knowledge in advanced AI/ML, system design, and cloud technologies.
+
+🤝 **Open to:** Full-time opportunities, AI/ML projects, research collaborations, backend development, and open-source contributions.
+
 ```
 
 ---
