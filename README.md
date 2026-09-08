@@ -1,181 +1,335 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Rafit%20Tishan%20Neo&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=220&section=header&text=Rafit%20Tishan%20Neo&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20AI%2FML%20%7C%20Software%20Developer&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://github.com/rafittishanneo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student+%7C+AI+%2F+ML+Enthusiast;Building+with+Python%2C+C%2B%2B+%26+TensorFlow;RFID+Systems+%7C+Computer+Vision+%7C+NLP;Currently+Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=720&lines=Computer+Science+Student+%F0%9F%8E%93;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Building+with+Python%2C+C%2B%2B+%26+C%23;Computer+Vision+%7C+NLP+%7C+IoT;Database+%7C+Backend+%7C+Full-Stack;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=briefcase&logoColor=black)
+<a href="https://github.com/rafittishanneo">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=briefcase&logoColor=0D1117"/>
+</a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rafittishanneo&color=7dd3fc&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/rafittishanneo?label=Followers&style=flat-square&color=7dd3fc)
-![Repos](https://img.shields.io/badge/dynamic/json?color=7dd3fc&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frafittishanneo&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=rafittishanneo&color=7DD3FC&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/rafittishanneo?style=for-the-badge&color=7DD3FC&labelColor=0D1117&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/rafittishanneo?style=for-the-badge&color=7DD3FC&labelColor=0D1117&label=STARS"/>
 
 </div>
 
-<br/>
+---
 
-## 👤 Who I Am
+## 👋 About Me
 
 ```typescript
 const rafit = {
-  title: "CS Student",
-  stack: {
-    languages: ["C++", "Python", "JavaScript", "C#", "MATLAB", "SQL", "Java"],
-    web: ["HTML", "CSS", "Node.js", "PHP"],
-    databases: ["MySQL"],
-    ai_ml: [
-      "TensorFlow",
-      "MobileNetV2",
-      "EfficientNet",
-      "XGBoost",
-      "Random Forest",
-      "GNN",
-      "NLP"
-    ],
-    tools: ["Git", "XAMPP"]
-  },
-  launchedProjects: [
-    "Smart-Desk-Monitor",
-    "Tap-In-Tap-Out-Smart-fare-collection-system"
+  name: "Rafit Tishan Neo",
+  role: "Computer Science Student",
+  university: "AIUB",
+  
+  interests: [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Computer Vision",
+    "Natural Language Processing",
+    "Backend Development",
+    "Database Systems",
+    "IoT"
   ],
-  status: "Building AI-powered and IoT systems",
-  openTo: "Full-time opportunities & collaborations"
+
+  languages: [
+    "C++",
+    "Python",
+    "C#",
+    "Java",
+    "JavaScript",
+    "SQL",
+    "MATLAB"
+  ],
+
+  currentlyLearning: [
+    "Advanced NLP",
+    "Deep Learning",
+    "System Design",
+    "Cloud Deployment"
+  ],
+
+  goal: "Build useful AI-powered and software systems",
+
+  status: "Open to opportunities & collaborations 🚀"
 };
 ```
 
-<br/>
+---
 
-## 🎯 What I'm About
+## 🧠 What I Do
 
-```
-Backend-first thinking     ████████████████░░░░  80%
-AI & NLP Systems           ███████████████░░░░░  75%
-Full-Stack Web Dev         ██████████████░░░░░░  70%
-Data Science & ML          █████████████░░░░░░░  65%
-Computer Vision            ████████████░░░░░░░░  60%
-```
+<table>
+<tr>
+<td width="50%">
 
-- 🔭 Currently working on: AI-powered tools and full-stack web systems
-- 🌱 Learning: Advanced NLP, system design, and cloud deployment
-- 🤝 Open to: Backend roles, AI/ML projects, research collaborations, and open-source contributions
-- 🎓 Student at: AIUB (American International University–Bangladesh), CSE
+### 🤖 AI / Machine Learning
 
-<br/>
+* Deep Learning
+* Computer Vision
+* NLP
+* Model Development
+* Feature Engineering
+* ML Classification
+
+</td>
+
+<td width="50%">
+
+### 💻 Software Development
+
+* Backend Development
+* Full-Stack Applications
+* Database Systems
+* REST-based Systems
+* Object-Oriented Programming
+* Software Engineering
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔌 IoT & Embedded
+
+* Arduino
+* RFID Systems
+* Smart Systems
+* Sensor-based Projects
+* Automation
+
+</td>
+
+<td width="50%">
+
+### 🗄️ Database
+
+* Oracle SQL
+* MySQL
+* Relational Database Design
+* ER Modeling
+* SQL Queries
+* Database Management
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🚀 Featured Projects
 
-### Smart-Desk-Monitor
+<div align="center">
 
-Real-time AI-based student attention and engagement monitoring using facial landmarks and deep learning.
+### 🤖 Smart Desk Monitor
+
+AI-powered student attention and engagement monitoring system using computer vision and machine learning.
 
 <a href="https://github.com/rafittishanneo/Smart-Desk-Monitor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafittishanneo&repo=Smart-Desk-Monitor&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Smart-Desk-Monitor pin"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rafittishanneo&repo=Smart-Desk-Monitor&theme=nord&border_color=7DD3FC&title_color=7DD3FC&text_color=C9D1D9&icon_color=7DD3FC"/>
 </a>
 
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| AI / Detection | Facial Landmarks, Deep Learning |
-| Models | MobileNetV2, EfficientNet, XGBoost, Random Forest |
-| Tooling | Git |
-
-[💻 Code](https://github.com/rafittishanneo/Smart-Desk-Monitor)
+**Python · Computer Vision · Deep Learning · MobileNetV2 · EfficientNet · XGBoost · Random Forest**
 
 <br/>
 
-### Tap-In-Tap-Out-Smart-fare-collection-system
+<a href="https://github.com/rafittishanneo/Smart-Desk-Monitor">
+<img src="https://img.shields.io/badge/View%20Repository-7DD3FC?style=for-the-badge&logo=github&logoColor=0D1117"/>
+</a>
 
-An RFID-based smart ticketing system with three roles — Moderator, Admin, and Passenger.
+</div>
+
+---
+
+<div align="center">
+
+### 📡 Tap-In-Tap-Out Smart Fare Collection System
+
+RFID-based smart ticketing and fare collection system designed around Moderator, Admin, and Passenger roles.
 
 <a href="https://github.com/rafittishanneo/Tap-In-Tap-Out-Smart-fare-collection-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafittishanneo&repo=Tap-In-Tap-Out-Smart-fare-collection-system&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Tap-In-Tap-Out pin"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rafittishanneo&repo=Tap-In-Tap-Out-Smart-fare-collection-system&theme=nord&border_color=7DD3FC&title_color=7DD3FC&text_color=C9D1D9&icon_color=7DD3FC"/>
 </a>
 
-| Layer | Technology |
-|---|---|
-| Backend | PHP |
-| Database | MySQL |
-| Local Server | XAMPP |
-| Roles | Moderator, Admin, Passenger |
-
-[💻 Code](https://github.com/rafittishanneo/Tap-In-Tap-Out-Smart-fare-collection-system)
+**PHP · MySQL · XAMPP · RFID · Web Application**
 
 <br/>
+
+<a href="https://github.com/rafittishanneo/Tap-In-Tap-Out-Smart-fare-collection-system">
+<img src="https://img.shields.io/badge/View%20Repository-7DD3FC?style=for-the-badge&logo=github&logoColor=0D1117"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚆 Online Train Reservation Database
+
+Oracle SQL database implementation for an Online Train Reservation System with users, trains, routes, schedules, tickets, payments, and train classes.
+
+**Oracle SQL · Database Design · DBMS · SQL Developer**
+
+<br/>
+
+<a href="https://github.com/rafittishanneo/online-train-reservation-db">
+<img src="https://img.shields.io/badge/View%20Repository-7DD3FC?style=for-the-badge&logo=github&logoColor=0D1117"/>
+</a>
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,py,js,cs,matlab,java" alt="languages"/>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,py,cs,java,js,matlab&theme=dark"/>
+</p>
 
-**Frontend**
+### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css" alt="frontend"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,php&theme=dark"/>
+</p>
 
-**Backend / Infra**
+### 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=nodejs,php,xampp,mysql" alt="backend and infra"/>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark"/>
+</p>
 
-**AI / DB**
+`MobileNetV2` · `EfficientNet` · `XGBoost` · `Random Forest` · `GNN` · `NLP`
 
-<img src="https://skillicons.dev/icons?i=tensorflow" alt="ai and db"/>
+### 🗄️ Databases
 
-**Dev Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git" alt="dev tools"/>
+`Oracle SQL` · `MySQL` · `Relational Database Design`
 
-<br/>
+### 🔧 Tools
 
-## 📊 GitHub Stats
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafittishanneo&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafittishanneo&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rafittishanneo&show_icons=true&hide_border=true&theme=nord&title_color=7DD3FC&icon_color=7DD3FC&text_color=C9D1D9&bg_color=0D1117" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=rafittishanneo&theme=nord&border=7dd3fc&background=0D1117&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafittishanneo&layout=compact&hide_border=true&theme=nord&title_color=7DD3FC&text_color=C9D1D9&bg_color=0D1117" height="180"/>
 
 </div>
 
 <br/>
 
-## 🏆 Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rafittishanneo&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://streak-stats.demolab.com?user=rafittishanneo&theme=nord&hide_border=true&background=0D1117&stroke=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=7DD3FC" width="70%"/>
 
 </div>
 
-<br/>
+---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafittishanneo&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🔗 Connect
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7DD3FC?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/md-rafit-4a2203263/)
-[![Email](https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:23-50418-1@student.aiub.edu)
+<img src="https://github-profile-trophy.vercel.app/?username=rafittishanneo&theme=nord&no-frame=true&no-bg=true&row=1&column=7" width="90%"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafittishanneo&theme=github-compact&color=7DD3FC&line=7DD3FC&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Artificial Intelligence       █████████████████░░░  85%
+Machine Learning              ████████████████░░░░  80%
+Backend Development            ███████████████░░░░░  75%
+Database Systems               ██████████████░░░░░░  70%
+Computer Vision                ██████████████░░░░░░  70%
+Full-Stack Development         █████████████░░░░░░░  65%
+IoT & Embedded Systems          ████████████░░░░░░░░  60%
+```
+
+> **Building projects, learning new technologies, and turning ideas into working systems.**
+
+---
+
+## 🌱 Currently Learning
+
+* 🧠 Advanced Natural Language Processing
+* 🤖 Deep Learning & Model Optimization
+* 🏗️ System Design
+* ☁️ Cloud Deployment
+* 🗄️ Advanced Database Systems
+* 🔬 AI/ML Research
+
+---
+
+## 🤝 Open To
+
+* 💼 Full-time opportunities
+* 🤖 AI / ML projects
+* 💻 Backend development
+* 🔬 Research collaborations
+* 🌐 Open-source contributions
+* 🚀 Interesting technical projects
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/md-rafit-4a2203263/">
+<img src="https://img.shields.io/badge/LinkedIn-7DD3FC?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+</a>
+
+<a href="mailto:23-50418-1@student.aiub.edu">
+<img src="https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
+</a>
+
+<a href="https://github.com/rafittishanneo">
+<img src="https://img.shields.io/badge/GitHub-7DD3FC?style=for-the-badge&logo=github&logoColor=0D1117"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
