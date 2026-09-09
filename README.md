@@ -22,7 +22,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 Hi! I'm **MD Rafit**, a Computer Science student at **AIUB (American International University–Bangladesh)** with a strong interest in **Artificial Intelligence, Machine Learning, Software Development, and IoT**.
 
@@ -30,20 +30,20 @@ I enjoy turning ideas into practical projects and exploring how technology can s
 
 I'm particularly interested in **Computer Vision, NLP, Deep Learning, Backend Development, Database Systems, and intelligent IoT solutions**.
 
-🚀 **Currently:** Building AI-powered and software-based projects while expanding my knowledge in advanced AI/ML, system design, and cloud technologies.
+**Currently:** Building AI-powered and software-based projects while expanding my knowledge in advanced AI/ML, system design, and cloud technologies.
 
-🤝 **Open to:** Full-time opportunities, AI/ML projects, research collaborations, backend development, and open-source contributions.
+**Open to:** Full-time opportunities, AI/ML projects, research collaborations, backend development, and open-source contributions.
 
 
 ---
 
-## 🧠 What I Do
+## What I Do
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 
 * Deep Learning
 * Computer Vision
@@ -56,7 +56,7 @@ I'm particularly interested in **Computer Vision, NLP, Deep Learning, Backend De
 
 <td width="50%">
 
-### 💻 Software Development
+### Software Development
 
 * Backend Development
 * Full-Stack Applications
@@ -83,7 +83,7 @@ I'm particularly interested in **Computer Vision, NLP, Deep Learning, Backend De
 
 <td width="50%">
 
-### 🗄️ Database
+### Database
 
 * Oracle SQL
 * MySQL
@@ -98,11 +98,11 @@ I'm particularly interested in **Computer Vision, NLP, Deep Learning, Backend De
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-### 🤖 Smart Desk Monitor
+### Smart Desk Monitor
 
 AI-powered student attention and engagement monitoring system using computer vision and machine learning.
 
@@ -124,7 +124,7 @@ AI-powered student attention and engagement monitoring system using computer vis
 
 <div align="center">
 
-### 📡 Tap-In-Tap-Out Smart Fare Collection System
+### Tap-In-Tap-Out Smart Fare Collection System
 
 RFID-based smart ticketing and fare collection system designed around Moderator, Admin, and Passenger roles.
 
@@ -146,7 +146,7 @@ RFID-based smart ticketing and fare collection system designed around Moderator,
 
 <div align="center">
 
-### 🚆 Online Train Reservation Database
+### Online Train Reservation Database
 
 Oracle SQL database implementation for an Online Train Reservation System with users, trains, routes, schedules, tickets, payments, and train classes.
 
@@ -164,19 +164,19 @@ Oracle SQL database implementation for an Online Train Reservation System with u
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,py,cs,java,js,matlab&theme=dark"/>
 </p>
 
-### 🌐 Web Development
+### Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,nodejs,php&theme=dark"/>
 </p>
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark"/>
@@ -184,7 +184,7 @@ Oracle SQL database implementation for an Online Train Reservation System with u
 
 `MobileNetV2` · `EfficientNet` · `XGBoost` · `Random Forest` · `GNN` · `NLP`
 
-### 🗄️ Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
@@ -192,7 +192,7 @@ Oracle SQL database implementation for an Online Train Reservation System with u
 
 `Oracle SQL` · `MySQL` · `Relational Database Design`
 
-### 🔧 Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark"/>
@@ -200,7 +200,7 @@ Oracle SQL database implementation for an Online Train Reservation System with u
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -243,38 +243,38 @@ Oracle SQL database implementation for an Online Train Reservation System with u
 ## 🎯 Current Focus
 
 ```text
-Artificial Intelligence       █████████████████░░░  85%
-Machine Learning              ████████████████░░░░  80%
+Artificial Intelligence        █████████████████░░░  85%
+Machine Learning               ████████████████░░░░  80%
 Backend Development            ███████████████░░░░░  75%
 Database Systems               ██████████████░░░░░░  70%
 Computer Vision                ██████████████░░░░░░  70%
 Full-Stack Development         █████████████░░░░░░░  65%
-IoT & Embedded Systems          ████████████░░░░░░░░  60%
+IoT & Embedded Systems         ████████████░░░░░░░░  60%
 ```
 
 > **Building projects, learning new technologies, and turning ideas into working systems.**
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
-* 🧠 Advanced Natural Language Processing
-* 🤖 Deep Learning & Model Optimization
-* 🏗️ System Design
-* ☁️ Cloud Deployment
-* 🗄️ Advanced Database Systems
-* 🔬 AI/ML Research
+* Advanced Natural Language Processing
+* Deep Learning & Model Optimization
+* System Design
+* Cloud Deployment
+* Advanced Database Systems
+* AI/ML Research
 
 ---
 
-## 🤝 Open To
+## Open To
 
-* 💼 Full-time opportunities
-* 🤖 AI / ML projects
-* 💻 Backend development
-* 🔬 Research collaborations
-* 🌐 Open-source contributions
-* 🚀 Interesting technical projects
+* Full-time opportunities
+* AI / ML projects
+* Backend development
+* Research collaborations
+* Open-source contributions
+* Interesting technical projects
 
 ---
 
